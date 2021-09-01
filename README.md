@@ -65,5 +65,12 @@ ___
 **bold** : bold체  
 *italic* : Italic체
 
+### 9.이미지 넣기
+1. 이미지삽입  
+![프로그램사양서](https://github.com/soeonkwak/MARKDOWN/blob/main/design01.png "프로그램기본사양서입니다.")  
+
+2. 이미지링크
+[프로그램사양서](https://github.com/soeonkwak/MARKDOWN/blob/main/design01.png "프로그램기본사양서입니다.")  
+
 
 
